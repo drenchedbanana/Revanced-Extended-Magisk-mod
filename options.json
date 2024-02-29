@@ -1,1 +1,26 @@
-[]
+        
+[
+  {
+    "patchName": "Custom branding name YouTube",
+    "options": [
+      {
+        "key": "AppName",
+        "value": "YouTube Revanced"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name YouTube Music",
+    "options": [
+      {
+        "key": "AppNameNotification",
+        "value": "YT Music Revanced"
+      },
+      {
+        "key": "AppNameLauncher",
+        "value": "YouTube Music Revanced"
+      }
+    ]
+  }
+]
+        
